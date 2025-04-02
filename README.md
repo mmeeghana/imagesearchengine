@@ -26,9 +26,9 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 | **JavaScript** | Logic & DOM manipulation  |
 | **Unsplash API** | Fetching image results  |
 
-##👩‍💻 Author
+👩‍💻 Author
+🔹 Detail	🔗 Link / Info
 Name	Meghana Batchalakuri
 📧 Email	meghanabatchalakuri@gmail.com
 🔗 LinkedIn	linkedin.com/in/meghana-batchalakuri
 🐙 GitHub	github.com/mmeeghana
-
